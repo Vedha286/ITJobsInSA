@@ -15,9 +15,6 @@
   "bugs": {
     "url": "https://github.com/Vedha286/ITJobsInSA/issues"
   },
-<<<<<<< HEAD
-  "homepage": "https://github.com/Vedha286/ITJobsInSA#readme"
-=======
   "homepage": "https://github.com/Vedha286/ITJobsInSA#readme",
   "dependencies": {
     "@angular/cli": "^10.0.3",
@@ -25,5 +22,4 @@
     "cors": "^2.8.5",
     "mongoose": "^5.9.25"
   }
->>>>>>> master
 }
