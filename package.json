@@ -1,0 +1,25 @@
+{
+  "name": "itjobsinsa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vedha286/ITJobsInSA.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vedha286/ITJobsInSA/issues"
+  },
+  "homepage": "https://github.com/Vedha286/ITJobsInSA#readme",
+  "dependencies": {
+    "@angular/cli": "^10.0.3",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.9.25"
+  }
+}
